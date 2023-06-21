@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687230048392,
+            "name": "D:\\Modern App Development Training\\nodejs-new\\logs\\access.2023-06-20.log",
+            "hash": "39451e5641040ff89aacd4b925d45b3c"
+        },
+        {
+            "date": 1687248785964,
+            "name": "D:\\Modern App Development Training\\nodejs-lab\\logs\\access.2023-06-20.log",
+            "hash": "b32b6ced8b21ae74b34c6e0ffded6823"
+        },
+        {
+            "date": 1687309048440,
+            "name": "D:\\Modern App Development Training\\nodejs-lab\\logs\\access.2023-06-21.log",
+            "hash": "19062f8e912a5478b267df9776e2eceb"
+        }
+    ]
+}
